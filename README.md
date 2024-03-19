@@ -249,8 +249,10 @@ show_image(cropped_image)
 ![image](https://github.com/Pravinrajj/IMAGE-TRANSFORMATIONS/assets/117917674/952c0ac1-a4e4-4fd2-9a29-173948e22923)
 
 ### v)Image Rotation
+![image](https://github.com/Pravinrajj/IMAGE-TRANSFORMATIONS/assets/117917674/394877cd-e1c9-4c1f-a99c-4a8425bc4a2c)
 
 ### vi)Image Cropping
+![image](https://github.com/Pravinrajj/IMAGE-TRANSFORMATIONS/assets/117917674/229d5ddb-8105-4024-bc0e-ec23563380a7)
 
 ## Result: 
 
